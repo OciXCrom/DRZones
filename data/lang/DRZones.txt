@@ -1,4 +1,4 @@
-[en]
+[en] -- OciXCrom
 DRZONE_ZONE = Zone
 DRZONE_ZONES = Zones
 DRZONE_DRZONES = DRZones
@@ -29,7 +29,7 @@ DRZONE_DESELECTED = Zone deselected.
 DRZONE_NOZONES = There aren't any zones on this map.
 DRZONE_INVALID = Invalid zone selected, please choose an other one.
 
-[mk]
+[mk] -- OciXCrom
 DRZONE_ZONE = Zona
 DRZONE_ZONES = Zoni
 DRZONE_DRZONES = DRZoni
@@ -60,7 +60,7 @@ DRZONE_DESELECTED = Zonata e deselektirana.
 DRZONE_NOZONES = Nema zoni na ovaa mapa.
 DRZONE_INVALID = Izbrana e nevalidna zona, ve molam izberete druga.
 
-[bg]
+[bg] -- OciXCrom
 DRZONE_ZONE = Zona
 DRZONE_ZONES = Zoni
 DRZONE_DRZONES = DRZoni
@@ -90,3 +90,34 @@ DRZONE_SELECTED = Izbra !gZonata #%i
 DRZONE_DESELECTED = Otmetkata e premahnata..
 DRZONE_NOZONES = Nqma zoni na tazi karta.
 DRZONE_INVALID = Izbrana e nevalidna zona, molq, izberete druga.
+
+[ro] -- dRiiZ, HamletEagle
+DRZONE_ZONE = Zona
+DRZONE_ZONES = Zone
+DRZONE_DRZONES = DRZones
+DRZONE_ADD = Adauga o zona noua
+DRZONE_CANCEL = \rAnuleaza zona curenta
+DRZONE_HIGHLIGHT = Afiseaza toate zonele create
+DRZONE_HIDE = \rAscunde toate zonele
+DRZONE_SELECT = Selecteaza o zona
+DRZONE_DELETE = Sterge zona curenta
+DRZONE_DELETEALL = Sterge toate zonele
+DRZONE_TELEPORT = Teleporteaza-te la zona curenta
+DRZONE_BACK = Inapoi
+DRZONE_DESELECT = Elimina selectia 
+DRZONE_CURRENT = Selectat
+DRZONE_NOTLEAVE = Nu ai voie sa treci pe aici!
+DRZONE_SET_FIRST = Apasa !g"G" !npentru a seta !tprimul !npunct.
+DRZONE_SET_SECOND = Apasa !g"G" !npentru a seta !tpunctul !nsecunda.
+DRZONE_CREATED = Zona creata cu succes!
+DRZONE_NOACCESS = Nu ai acces la aceasta comanda!
+DRZONE_CANCELED = Modul de creare a fost anulat!
+DRZONE_HIGHLIGHT_ENABLED = Afisarea zonelor create este !tACTIVATA!n.
+DRZONE_HIGHLIGHT_DISABLED = Afisarea zonelor create este !tDEZACTIVATA!n.
+DRZONE_REMOVED = Ai eliminat !gzona cu numarul #%i!n.
+DRZONE_REMOVEDALL = Ai eliminat  !gtoate zonele create!n.
+DRZONE_TELEPORTED = Teleporteaza-te catre !gzona cu numarul #%i!n.
+DRZONE_SELECTED = Ai selectat !gzona cu numarul #%i
+DRZONE_DESELECTED = Ai sters zona selectata.
+DRZONE_NOZONES = Nu exista zone create pe aceasta harta.
+DRZONE_INVALID = Zona selectata este incorecta, te rog alege alta.
